@@ -1,0 +1,1 @@
+This project aims to provide data-driven strategies to individual IPL teams using analytical and machine learning-based approaches to identify which players to purchase in the IPL auction based on a detailed analysis of team requirements and compositions from the previous season.

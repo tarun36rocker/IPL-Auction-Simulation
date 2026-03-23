@@ -1,4 +1,4 @@
-# 🏏 IPL Auction Simulation using Data-Driven Strategies  
+# IPL Auction Simulation using Clustering and Ranking
 
 This project simulates IPL auction dynamics using data-driven techniques by analysing team weaknesses, clustering similar teams, and recommending optimal player targets.
 
